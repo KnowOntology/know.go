@@ -15,7 +15,7 @@
 ### Installation via `go get`
 
 ```console
-$ go get github.com/KnowOntology/know.go/
+$ go get -u github.com/KnowOntology/know.go/
 ```
 
 ## 👉 Examples
@@ -23,7 +23,7 @@ $ go get github.com/KnowOntology/know.go/
 ### Importing the framework
 
 ```go
-import "github.com/KnowOntology/know.go"
+import know "github.com/KnowOntology/know.go/classes"
 ```
 
 ## 👨‍💻 Development
